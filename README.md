@@ -2,11 +2,15 @@
 
 # <horiseon_accessibility>
 
-## refactor codebase to meet accessibility standards and improve SEO.
+## Refactor codebase to meet accessibility standards and improve SEO.
 
 
 
 In an effort to learn, understand, and implement HTML and CSS structure, elements and properties I have refactored the code to maximize the website's accessibility, thus enhancing the search engine optimization. 
+
+- Added symantec HTML elements
+- Included "alt" descriptions to image elements.
+- Edited position elements in CSS to match desired layout.
 
 
 
@@ -14,8 +18,4 @@ In an effort to learn, understand, and implement HTML and CSS structure, element
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+W3C Web Accessibility Initiative: https://www.w3.org/WAI/standards-guidelines/wcag/
